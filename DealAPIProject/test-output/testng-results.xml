@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="6036" started-at="2020-04-17T12:04:29 IST" finished-at="2020-04-17T12:04:35 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="6036" started-at="2020-04-17T12:04:29 IST" finished-at="2020-04-17T12:04:35 IST">
+      <class name="Test1.TC_DealAPI">
+        <test-method status="PASS" signature="test_APIallemployee()[pri:1, instance:Test1.TC_DealAPI@a7e666]" name="test_APIallemployee" duration-ms="2020" started-at="2020-04-17T12:04:29 IST" finished-at="2020-04-17T12:04:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_APIallemployee -->
+        <test-method status="PASS" signature="test_POSTdata()[pri:2, instance:Test1.TC_DealAPI@a7e666]" name="test_POSTdata" duration-ms="1330" started-at="2020-04-17T12:04:31 IST" finished-at="2020-04-17T12:04:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_POSTdata -->
+        <test-method status="PASS" signature="PutRequest()[pri:3, instance:Test1.TC_DealAPI@a7e666]" name="PutRequest" duration-ms="1144" started-at="2020-04-17T12:04:32 IST" finished-at="2020-04-17T12:04:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PutRequest -->
+        <test-method status="PASS" signature="deleterequest()[pri:4, instance:Test1.TC_DealAPI@a7e666]" name="deleterequest" duration-ms="1502" started-at="2020-04-17T12:04:34 IST" finished-at="2020-04-17T12:04:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleterequest -->
+      </class> <!-- Test1.TC_DealAPI -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
